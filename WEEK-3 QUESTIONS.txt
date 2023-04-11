@@ -1,0 +1,11 @@
+Exploratory Data Analysis
+
+1.Identify the null values in  the iris data set. 
+2.Identify null values in each column.
+3.Identify the redundant(repeated) rows in the dataset.
+4.Fill the null values with the mean,median.
+
+5.Normalize the data using standard scaler and Min-Max Scaler.
+6.Implement a heatmap and identify the correlation among the features.
+7.Design a pair-plot and analyse the correlation among the features.
+8.Rename the columns names  and converting the type of colums to another.

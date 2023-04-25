@@ -1,0 +1,6 @@
+1. Implement k-Means Clustering on Turkiye_student_evaluation_analysis_dataset
+2.
+3.
+4.
+5.
+6.
